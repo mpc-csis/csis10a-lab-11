@@ -40,12 +40,11 @@ In order to simplify the execution of unit tests, we will create our unit tests 
 
 #### Create a project using Maven
 
-1. Create a new Maven project named _unittest_ using the following:
+1. Create a new Maven project named _unittest_ with the command below. When prompted, the groupId should be __csis10a__, the artifactId should be __unittest__.:
 ```
 cd ~/csis10a
 mvn archetype:generate
 ```
-When prompted, the groupId should be __csis10a__, the artifactId should be __unittest__.
 2. You should now have a directory named `~/csis10a/unittest`. Open this project using _IntelliJ_ or _Visual Studio Code_
 
 #### MathUtil
