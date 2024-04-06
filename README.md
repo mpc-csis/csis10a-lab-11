@@ -45,7 +45,7 @@ In order to simplify the execution of unit tests, we will create our unit testst
 cd ~/csis10a
 mvn archetype:generate
 ```
-When promptedt, the groupId should be __csis10a__, the artifactId should be __unittest__
+When prompted, the groupId should be __csis10a__, the artifactId should be __unittest__
 2. You should now have a directory named `~/csis10a/unittest`. Open this project using _IntelliJ_ or _Visual Studio Code_
 
 #### MathUtil
