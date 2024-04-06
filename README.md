@@ -51,7 +51,7 @@ mvn archetype:generate
 
 MathUtil will illustrate using static methods like functions.
 
-1. Create the class `csis10a.MathUtil`. To do this in your editor, expand the `src` directory in IntelliJ's sidebar until you see the `csis10a` package. Right-click on csis10a and select _new Java class_ and name it `MathUtil`.
+1. Create the class `csis10a.MathUtil`. To do this in your editor, expand the `src` directory in your editor's sidebar until you see the `csis10a` package. Right-click on csis10a and select _new Java class_ and name it `MathUtil`.
 2. Create 2 static methods in MathUtil and implement them:
   - `add` which will add 2 double values together and returns the result
   - `subtract` which will subtract 2 double values and returns the result.
