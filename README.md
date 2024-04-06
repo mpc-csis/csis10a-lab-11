@@ -34,7 +34,7 @@ In computer programming, unit testing is a method by which individual units of s
 
 Java has a number of excellent unit test frameworks to use. For this lab, we will be using [JUnit](http://junit.org/) which is probably the most commonly used one.
 
-In order to simplify the execution of unit tests, we will create our unit testst in a Maven project. If you follow a few conventions Maven will execute your unit tests for you on request or with every build.
+In order to simplify the execution of unit tests, we will create our unit tests in a Maven project. If you follow a few conventions Maven will execute your unit tests for you on request or with every build.
 
 ### Your Tasks
 
@@ -45,7 +45,7 @@ In order to simplify the execution of unit tests, we will create our unit testst
 cd ~/csis10a
 mvn archetype:generate
 ```
-When prompted, the groupId should be __csis10a__, the artifactId should be __unittest__
+When prompted, the groupId should be __csis10a__, the artifactId should be __unittest__.
 2. You should now have a directory named `~/csis10a/unittest`. Open this project using _IntelliJ_ or _Visual Studio Code_
 
 #### MathUtil
