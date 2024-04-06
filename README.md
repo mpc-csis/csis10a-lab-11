@@ -32,7 +32,7 @@ In computer programming, unit testing is a method by which individual units of s
 
 ### Unit Testing Frameworks
 
-Java has a number of excellent unit test frameworks to use. For this lab we will be using [JUnit](http://junit.org/) which is probably the most commonly used one.
+Java has a number of excellent unit test frameworks to use. For this lab, we will be using [JUnit](http://junit.org/) which is probably the most commonly used one.
 
 In order to simplify the execution of unit tests, we will create our unit testst in a Maven project. If you follow a few conventions Maven will execute your unit tests for you on request or with every build.
 
