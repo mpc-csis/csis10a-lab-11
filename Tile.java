@@ -5,8 +5,7 @@
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class Tile
-{
+public class Tile {
     // 1) define instance variables here
 
 
@@ -22,7 +21,7 @@ public class Tile
     
     
     
-    public static void main(String [] args){
+    public static void main(String [] args) {
        /*********** Problem 5 ******************************
        // 5) Verify your class works by running this program 
        Tile tile1 = new Tile();       
